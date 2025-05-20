@@ -5,3 +5,7 @@ https://colab.research.google.com/github/ReisCook/Voice_Extractor_Colab/blob/mai
 # Original Repo:
 
 https://github.com/ReisCook/Voice_Extractor
+
+# Offline Jupyter Notebook with GUI
+
+https://github.com/ReisCook/Voice_Extractor_Jupyter
